@@ -1,2 +1,0 @@
-#Testing edited uptime command for displaying information on desktop
-uptime | awk '{ print $3,"Days"}'
